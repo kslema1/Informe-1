@@ -93,7 +93,7 @@ RESOLUCION DE EJERCICIOS PARES
 ![image](https://user-images.githubusercontent.com/116772752/200987285-15e4b004-ad97-413c-aa0b-06841ed4d3a0.png)
 ![image](https://user-images.githubusercontent.com/116772752/200987323-b804e7f5-7b26-4f7d-898f-e884b4c2d3c1.png)
 VIDEO:
-
+https://youtu.be/F7KrZNNRpVk
 CONCLUSIONES:
 •	Los conceptos leídos en los capítulos 1 y 2 del libro de Floyd fueron muy interesantes porque tratan temas muy básicos de la electrónica. Un concepto muy importante que se debe tener muy claro es la dirección de la corriente o cómo calcular correctamente el voltaje y la corriente y por lo tanto cada concepto debe ser analizado y dominado con rigurosidad.
 •	En conclusión, gracias al mapa conceptual producido, podemos resumir mejor los temas tratados en el libro de Floyd, haciéndolo mucho más accesible, más legible y menos irrelevante. Fui capaz de. El interés por la lectura se acorta un poco cuando ve muchos párrafos escritos en el texto. Entonces, usar estas mentalidades y mapas conceptuales puede ser muy útil para hacer este tipo de trabajo.
